@@ -15,6 +15,7 @@
 let nome = "Robson"
 let number = 28
 let anoAtual = 2022 - number
+console.log(anoAtual)
 let soma = number + anoAtual
 console.log(soma)
 console.log("Estou mexendo no console.log")
